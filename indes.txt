@@ -4,3 +4,4 @@ wrods
 and stuff
 this is added
 maybe this will work better
+echo "works lol"
